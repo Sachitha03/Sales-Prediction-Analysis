@@ -1,1 +1,1 @@
-# Sales Prediciton Analysis using Linear Regression
+ Sales Prediciton Analysis using Linear Regression
